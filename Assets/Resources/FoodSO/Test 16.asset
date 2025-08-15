@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058bde4937a5b5f4e9c19e0abd8c6615, type: 3}
+  m_Name: Test 16
+  m_EditorClassIdentifier: 
+  foodName: "\u0E0B\u0E32\u0E25\u0E32\u0E40\u0E1B\u0E32\u0E17\u0E14\u0E2A\u0E2D\u0E1A
+    12"
+  cookingTime: 10
+  rarity: 2
+  foodImage: {fileID: 8766856428064972762, guid: 85983e656c4d0eb48aeb89619ef629f6, type: 3}
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 352149bcc2514b445be6221063d2f56c, type: 2}
+    quantity: 1
+  - ingredient: {fileID: 11400000, guid: 4cc5558c75812d343aa681dd533a6808, type: 2}
+    quantity: 1
+  - ingredient: {fileID: 11400000, guid: f2e5af9df021f794b9641f8fba619b69, type: 2}
+    quantity: 2
