@@ -252,4 +252,9 @@ public class GameManager : Singleton<GameManager>
 
         IsCooking = false;
     }
+
+    public void Pause(bool pause)
+    {
+        Time.timeScale = pause ? 0 : 1;
+    }
 }
